@@ -39,11 +39,6 @@ function worldvision_wysiwyg_profiles_filter_default_formats() {
         'status' => 1,
         'settings' => array(),
       ),
-      'media_filter' => array(
-        'weight' => 2,
-        'status' => 1,
-        'settings' => array(),
-      ),
       'filter_htmlcorrector' => array(
         'weight' => 10,
         'status' => 1,
@@ -69,6 +64,11 @@ function worldvision_wysiwyg_profiles_filter_default_formats() {
       ),
       'filter_autop' => array(
         'weight' => 1,
+        'status' => 1,
+        'settings' => array(),
+      ),
+      'media_filter' => array(
+        'weight' => 2,
         'status' => 1,
         'settings' => array(),
       ),

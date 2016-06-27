@@ -101,7 +101,6 @@ function worldvision_wysiwyg_profiles_wysiwyg_default_profiles() {
           'Link' => 1,
           'Unlink' => 1,
           'Anchor' => 1,
-          'Image' => 1,
           'TextColor' => 1,
           'BGColor' => 1,
           'Superscript' => 1,
@@ -133,6 +132,7 @@ function worldvision_wysiwyg_profiles_wysiwyg_default_profiles() {
           'About' => 1,
         ),
         'drupal' => array(
+          'media' => 1,
           'break' => 1,
         ),
       ),
