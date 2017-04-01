@@ -149,7 +149,7 @@ function worldvision_wysiwyg_profiles_wysiwyg_default_profiles() {
       'block_formats' => 'p,address,pre,h2,h3,h4,h5,h6,div',
       'css_setting' => 'theme',
       'css_path' => '',
-      'css_classes' => '',
+      'css_classes' => 'Green Title=h2.title-green',
     ),
     'rdf_mapping' => array(),
   );
